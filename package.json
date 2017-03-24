@@ -8,7 +8,7 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "electron": "1.6.3"
+    "electron": "1.6.4"
   },
   "private": true
 }
